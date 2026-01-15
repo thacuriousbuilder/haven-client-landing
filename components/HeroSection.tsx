@@ -75,7 +75,7 @@ export default function HeroSection() {
                   />
                 </div>
                 <div>
-                  <div className="font-semibold text-white">100+ users have already signed up for early access</div>
+                  <div className="font-semibold text-white">Join users who have already signed up for early access</div>
                   <div className="text-sm">Tracking smarter, living better</div>
                 </div>
               </div>
